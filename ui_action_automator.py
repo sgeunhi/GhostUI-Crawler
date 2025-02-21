@@ -8,7 +8,7 @@ from utils.element_finder import ElementFinder
 from utils.gesture_handler import GestureHandler
 from utils.data_saver import DataSaver
 
-class UIActionTester:
+class UIActionAutomator:
     def __init__(self, driver):
         self.driver = driver
         self.action_handler = GestureHandler(driver)
@@ -200,7 +200,7 @@ if __name__ == "__main__":
 
     try:
         driver = webdriver.Remote("http://localhost:4723", options=UiAutomator2Options().load_capabilities(desired_caps))
-        tester = UIActionTester(driver)
+        tester = UIActionAutomator(driver)
         tester.run_test_on_ui_elements()
 
     except Exception as e:
