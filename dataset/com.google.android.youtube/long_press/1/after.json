@@ -1,0 +1,239 @@
+[
+    {
+        "tag": "hierarchy",
+        "text": "\n  ",
+        "attributes": {
+            "index": "0",
+            "class": "hierarchy",
+            "rotation": "0",
+            "width": "1440",
+            "height": "3036"
+        }
+    },
+    {
+        "tag": "android.widget.FrameLayout",
+        "text": "\n    ",
+        "attributes": {
+            "index": "0",
+            "package": "com.google.android.youtube",
+            "class": "android.widget.FrameLayout",
+            "text": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[160,1298][1280,1822]",
+            "displayed": "true"
+        }
+    },
+    {
+        "tag": "android.widget.LinearLayout",
+        "text": "\n      ",
+        "attributes": {
+            "index": "0",
+            "package": "com.google.android.youtube",
+            "class": "android.widget.LinearLayout",
+            "text": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[216,1354][1224,1766]",
+            "displayed": "true"
+        }
+    },
+    {
+        "tag": "android.widget.FrameLayout",
+        "text": "\n        ",
+        "attributes": {
+            "index": "0",
+            "package": "com.google.android.youtube",
+            "class": "android.widget.FrameLayout",
+            "text": "",
+            "resource-id": "android:id/content",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[216,1354][1224,1766]",
+            "displayed": "true"
+        }
+    },
+    {
+        "tag": "android.widget.LinearLayout",
+        "text": "\n          ",
+        "attributes": {
+            "index": "0",
+            "package": "com.google.android.youtube",
+            "class": "android.widget.LinearLayout",
+            "text": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[216,1354][1224,1766]",
+            "displayed": "true"
+        }
+    },
+    {
+        "tag": "android.widget.LinearLayout",
+        "text": "\n            ",
+        "attributes": {
+            "index": "0",
+            "package": "com.google.android.youtube",
+            "class": "android.widget.LinearLayout",
+            "text": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[216,1354][1224,1550]",
+            "displayed": "true"
+        }
+    },
+    {
+        "tag": "android.widget.TextView",
+        "text": null,
+        "attributes": {
+            "index": "0",
+            "package": "com.google.android.youtube",
+            "class": "android.widget.TextView",
+            "text": "Accounts",
+            "resource-id": "com.google.android.youtube:id/title",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[300,1423][1035,1508]",
+            "displayed": "true"
+        }
+    },
+    {
+        "tag": "android.widget.ImageView",
+        "text": null,
+        "attributes": {
+            "index": "1",
+            "package": "com.google.android.youtube",
+            "class": "android.widget.ImageView",
+            "text": "",
+            "content-desc": "Add account",
+            "resource-id": "com.google.android.youtube:id/add_account",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[1035,1382][1203,1550]",
+            "displayed": "true"
+        }
+    },
+    {
+        "tag": "android.widget.ListView",
+        "text": "\n            ",
+        "attributes": {
+            "index": "1",
+            "package": "com.google.android.youtube",
+            "class": "android.widget.ListView",
+            "text": "",
+            "resource-id": "com.google.android.youtube:id/account_list",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[216,1550][1224,1766]",
+            "displayed": "true"
+        }
+    },
+    {
+        "tag": "android.widget.FrameLayout",
+        "text": "\n              ",
+        "attributes": {
+            "index": "0",
+            "package": "com.google.android.youtube",
+            "class": "android.widget.FrameLayout",
+            "text": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[216,1550][1224,1738]",
+            "displayed": "true"
+        }
+    },
+    {
+        "tag": "android.widget.TextView",
+        "text": null,
+        "attributes": {
+            "index": "0",
+            "package": "com.google.android.youtube",
+            "class": "android.widget.TextView",
+            "text": "Add account",
+            "resource-id": "com.google.android.youtube:id/name",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "scrollable": "false",
+            "selected": "false",
+            "bounds": "[258,1550][1224,1710]",
+            "displayed": "true"
+        }
+    }
+]
