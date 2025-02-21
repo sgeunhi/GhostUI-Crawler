@@ -1,0 +1,60 @@
+{
+    "apps": [
+      {
+        "name": "Threads",
+        "screens": {
+          "feed": {
+            "navigate": []
+          },
+          "profile": {
+            "navigate": [
+                {"action": "tap", "bounds": "[1206,2893][1297,2984]"}
+              ]
+          },
+          "search": {
+            "navigate": [
+                {"action": "tap", "bounds": "[408,2893][499,2984]"}
+              ]
+          },
+          "posting": {
+            "navigate": [
+                {"action": "tap", "bounds": "[674,2893][765,2984]"}
+              ]
+          },
+          "notification": {
+            "navigate": [
+                {"action": "tap", "bounds": "[940,2893][1031,2984]"}
+              ]
+          }
+        }
+      },
+      {
+        "name": "Instagram",
+        "screens": {
+          "feed": {
+            "navigate": []
+          },
+          "profile": {
+            "navigate": [
+                {"action": "tap", "bounds": "[1206,2893][1297,2984]"}
+              ]
+          },
+          "search": {
+            "navigate": [
+                {"action": "tap", "bounds": "[408,2893][499,2984]"}
+              ]
+          },
+          "posting": {
+            "navigate": [
+                {"action": "tap", "bounds": "[674,2893][765,2984]"}
+              ]
+          },
+          "notification": {
+            "navigate": [
+                {"action": "tap", "bounds": "[940,2893][1031,2984]"}
+              ]
+          }
+        }
+      },
+    ]
+  }
